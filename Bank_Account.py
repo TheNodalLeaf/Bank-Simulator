@@ -5,7 +5,7 @@ file_location = 'Bank Simulator/accounts.json'
 
 
 class BankAccount:
-
+ 
     def __init__(self, account_holder, account_number, account_balance):
         self.account_holder = account_holder
         self.account_number = account_number
