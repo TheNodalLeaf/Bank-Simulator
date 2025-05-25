@@ -1,0 +1,25 @@
+[
+ {
+  "account holder": "Abdul Ahad",
+  "account number": 19900,
+  "account balance": 1000,
+  "transactions": [
+   {
+    "type": "deposit",
+    "amount_deposited": 4000,
+    "time of deposit": "24/05/2025 19:09:49"
+   },
+   {
+    "type": "transfer",
+    "amount": 2000,
+    "trasnferred_to": "Alice"
+   }
+  ]
+ },
+ {
+  "account holder": "Alice",
+  "account number": 19900,
+  "account balance": 74000,
+  "transactions": []
+ }
+]
