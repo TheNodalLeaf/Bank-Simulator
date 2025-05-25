@@ -135,6 +135,7 @@ class BankAccount:
                         print(prettier_transaction + '\n')
     
     def transfer_money(self , receiver_account_holder , amount):
+
         
         with open (file_location , 'r') as f:
             accounts = json.load(f)
@@ -181,6 +182,7 @@ class BankAccount:
 
             with open (file_location , 'w') as file:
                 json.dump(accounts , file , indent = 1)
+
 
 
 
