@@ -30,4 +30,4 @@ Yet to do => Check whether the account exists or not in view account function
 
 Transfer money from one account to another
 
-Send emails of deposit and withdrawl
+
